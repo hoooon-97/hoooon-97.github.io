@@ -6,7 +6,7 @@ tags:
 - python-async
 - concurrency
 - backend
-layout: post
+layout: single
 ---
 
 # 파이썬 async 완벽 가이드
